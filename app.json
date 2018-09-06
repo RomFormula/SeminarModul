@@ -8,6 +8,9 @@
   "compatibilityId": "1.0.0.0",
   "privacyStatement": "",
   "EULA": "",
+  "showMyCode": true,
+  "target": "Internal",
+  "features": "TranslationFile",
   "help": "",
   "url": "",
   "logo": "",
@@ -17,7 +20,7 @@
   "platform": "11.0.0.0",
   "application": "11.0.0.0",
   "idRange": {
-    "from": 50100,
-    "to": 50149
+    "from": 1234567000,
+    "to": 123456799
   }
 }
